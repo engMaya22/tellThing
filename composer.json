@@ -1,0 +1,19 @@
+{
+    "name": "luci/tpack",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luci\\Tpack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "engMaya22",
+            "email": "eng.maya.esmaeel1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
